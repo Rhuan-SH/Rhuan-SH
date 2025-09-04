@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Rhuan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Back-End+em+Formação" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+BackEnd+em+Formação" />
 </p>
 
 <p align="center">
