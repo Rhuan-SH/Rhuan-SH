@@ -33,7 +33,7 @@
 
 ## 🧰 Tecnologias e Linguagens que conheço
 
-Tenho conhecimentos em **Python**, **HTML**, **CSS**, **Java** e **JavaScript**.  
+Tenho conhecimentos em **Python**, **HTML**, **CSS** e **JavaScript**.  
 Estou construindo minha base com foco em clareza, lógica e boas práticas.
 
 <div align="center">
@@ -50,10 +50,9 @@ Estou construindo minha base com foco em clareza, lógica e boas práticas.
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rihuan-SH&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rihuan-SH&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rhuan-SH&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rhuan-SH&theme=radical" />
 </div>
-
 ---
 
 ## 📫 Contato
